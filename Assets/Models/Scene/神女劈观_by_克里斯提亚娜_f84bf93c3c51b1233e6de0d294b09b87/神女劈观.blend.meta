@@ -6,7 +6,52 @@ ModelImporter:
   - first:
       74: -623603649343465320
     second: Scene
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moon
+    second: {fileID: 2100000, guid: de19c12fc9b09a94ca739be8011dff3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sky
+    second: {fileID: 2100000, guid: 520b6adbf0fc4f04aa474a11045aa2ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8CEA1"
+    second: {fileID: 2100000, guid: 93d80967fffe7514daa51cf18f8ec672, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8CEA2"
+    second: {fileID: 2100000, guid: 94becf45c416a3a40a48501d3a6099f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8CEA3"
+    second: {fileID: 2100000, guid: 8efccb77c0ed1a841b1162eb3326706d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8CEA4"
+    second: {fileID: 2100000, guid: 27bf66d1aa57b824096e4a8b57ae7ec8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8CEA5"
+    second: {fileID: 2100000, guid: 36b06c1e6dd1610438dd58593fd3684a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8CEA6"
+    second: {fileID: 2100000, guid: bc3d72cd12926284fb6d1eac53f8e9f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8D28"
+    second: {fileID: 2100000, guid: e56469218ef96b9408dbcf3868a50145, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

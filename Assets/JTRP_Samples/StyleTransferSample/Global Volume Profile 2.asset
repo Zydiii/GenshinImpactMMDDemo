@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5576767293123491869
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f79ad0ddd6baff4b981599d80ff54b4, type: 3}
+  m_Name: StyleTransfer
+  m_EditorClassIdentifier: 
+  active: 1
+  inputResolution:
+    m_OverrideState: 1
+    m_Value: {x: 960, y: 540}
+  forceBilinearUpsample2DInModel:
+    m_OverrideState: 0
+    m_Value: 1
+  workerType:
+    m_OverrideState: 1
+    m_Value: 32768
+  debugModelLoading:
+    m_OverrideState: 0
+    m_Value: 0
+  modelType:
+    m_OverrideState: 1
+    m_Value: 1
+  pregamma:
+    m_OverrideState: 1
+    m_Value: 1
+  postgamma:
+    m_OverrideState: 1
+    m_Value: 2.2
+  showStylePreview:
+    m_OverrideState: 1
+    m_Value: 1
+  styleTextureIndex:
+    m_OverrideState: 1
+    m_Value: 0
+  styleTextures:
+    m_OverrideState: 1
+    m_Value:
+    - {fileID: 2800000, guid: 4998acaea66347641872447917091f54, type: 3}
+    - {fileID: 2800000, guid: 4034ad29c9d0da942a8d1894b8326db2, type: 3}
+    - {fileID: 2800000, guid: 84c68236dafead940bdb130bf3f98d87, type: 3}
+    - {fileID: 2800000, guid: e08e13bac876db34ebdd4ee031ef9804, type: 3}
+    - {fileID: 2800000, guid: ae97a4f5da84dd646ae92fe3902b58b0, type: 3}
+    - {fileID: 2800000, guid: 63fa4fc85db8b4d438ed7b6afc0e37d8, type: 3}
+    - {fileID: 2800000, guid: ddc03bc28731d414ebd8a2571dcea240, type: 3}
+    - {fileID: 2800000, guid: afc787cd679b59146b17e4c63600a108, type: 3}
+    - {fileID: 2800000, guid: a09719851a7198843b005579224b5989, type: 3}
+    - {fileID: 2800000, guid: ce74fa9b8f2de4a4bbffcedcee2754a0, type: 3}
+    - {fileID: 2800000, guid: f7abce3a86c54ee4bb368e8844a07f4b, type: 3}
+--- !u!114 &-1255941133306240974
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24f077503be6ae942a1e1245dbd53ea9, type: 3}
+  m_Name: Bloom
+  m_EditorClassIdentifier: 
+  active: 1
+  quality:
+    m_OverrideState: 0
+    m_Value: 1
+  threshold:
+    m_OverrideState: 1
+    m_Value: 0.8
+  intensity:
+    m_OverrideState: 1
+    m_Value: 0
+  scatter:
+    m_OverrideState: 0
+    m_Value: 0.7
+  tint:
+    m_OverrideState: 0
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
+  dirtTexture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  dirtIntensity:
+    m_OverrideState: 0
+    m_Value: 0
+  anamorphic:
+    m_OverrideState: 0
+    m_Value: 1
+  m_Resolution:
+    m_OverrideState: 0
+    m_Value: 2
+  m_HighQualityPrefiltering:
+    m_OverrideState: 0
+    m_Value: 0
+  m_HighQualityFiltering:
+    m_OverrideState: 0
+    m_Value: 1
+--- !u!114 &-479833139011390428
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b8bcdf71d7fafa419fca1ed162f5fc9, type: 3}
+  m_Name: ColorAdjustments
+  m_EditorClassIdentifier: 
+  active: 0
+  postExposure:
+    m_OverrideState: 0
+    m_Value: 0
+  contrast:
+    m_OverrideState: 0
+    m_Value: 0
+  colorFilter:
+    m_OverrideState: 0
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
+  hueShift:
+    m_OverrideState: 0
+    m_Value: 0
+  saturation:
+    m_OverrideState: 0
+    m_Value: 0
+--- !u!114 &-427750696640615311
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f086a068d4c5889438831b3ae9afc11c, type: 3}
+  m_Name: Tonemapping
+  m_EditorClassIdentifier: 
+  active: 0
+  mode:
+    m_OverrideState: 1
+    m_Value: 3
+  toeStrength:
+    m_OverrideState: 0
+    m_Value: 0
+  toeLength:
+    m_OverrideState: 0
+    m_Value: 0.5
+  shoulderStrength:
+    m_OverrideState: 0
+    m_Value: 0
+  shoulderLength:
+    m_OverrideState: 0
+    m_Value: 0.5
+  shoulderAngle:
+    m_OverrideState: 0
+    m_Value: 0
+  gamma:
+    m_OverrideState: 1
+    m_Value: 1
+  lutTexture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  lutContribution:
+    m_OverrideState: 0
+    m_Value: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+  m_Name: Global Volume Profile 2
+  m_EditorClassIdentifier: 
+  components:
+  - {fileID: 7529827264665930685}
+  - {fileID: -5576767293123491869}
+  - {fileID: -1255941133306240974}
+  - {fileID: -427750696640615311}
+  - {fileID: -479833139011390428}
+--- !u!114 &7529827264665930685
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4be2734668711f444bdc1134d876c26b, type: 3}
+  m_Name: PencilLine
+  m_EditorClassIdentifier: 
+  active: 0
+  alpha:
+    m_OverrideState: 1
+    m_Value: 1

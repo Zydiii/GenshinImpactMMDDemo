@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "com.jasonma.jtrp": "file:C:/Users/Zydii/Desktop/MMD/JasonMaToonRenderPipeline-master/JasonMaToonRenderPipeline-master",
     "com.unity.animation.rigging": "1.1.1",
+    "com.unity.cinemachine": "2.8.6",
     "com.unity.collab-proxy": "1.17.1",
     "com.unity.feature.development": "1.0.1",
     "com.unity.ide.rider": "3.0.15",
