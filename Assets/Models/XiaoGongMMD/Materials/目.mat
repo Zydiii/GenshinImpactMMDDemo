@@ -30,7 +30,7 @@ Material:
   - _IS_CLIPPING_OFF
   - _IS_OUTLINE_CLIPPING_NO
   - _NORMALMAP_TANGENT_SPACE
-  - _OUTLINE_NML
+  - _OUTLINE_POS
   m_InvalidKeywords:
   - KEY1
   - _DISABLE_SSR_TRANSPARENT
@@ -563,7 +563,7 @@ Material:
     - _NoShadowCasting: 0
     - _NormalMapSpace: 0
     - _NormalScale: 1
-    - _OUTLINE: 0
+    - _OUTLINE: 1
     - _OcclusionRemapEnd: 1
     - _OcclusionRemapStart: 0
     - _OcclusionStrength: 1
@@ -579,7 +579,7 @@ Material:
     - _OutlineZOffsetMaskRemapEnd: 1
     - _OutlineZOffsetMaskRemapStart: 0
     - _Outline_Ramp_Max_Distance: 10
-    - _Outline_Width: 2
+    - _Outline_Width: 1.5
     - _PPDLodThreshold: 5
     - _PPDMaxSamples: 15
     - _PPDMinSamples: 5
@@ -596,12 +596,12 @@ Material:
     - _ReceivesSSRTransparent: 0
     - _RefractionModel: 0
     - _Revision: -1
-    - _RimLight: 1
+    - _RimLight: 0
     - _RimLightOverridden: 0
     - _RimLightVisible: 1
     - _RimLight_FeatherOff: 0
     - _RimLight_InsideMask: 0.0001
-    - _RimLight_Power: 0.226
+    - _RimLight_Power: 0.1
     - _Rotate_EmissiveUV: 0
     - _Rotate_MatCapUV: 0
     - _Rotate_NormalMapForMatCapUV: 0
@@ -697,7 +697,7 @@ Material:
     - _UseEmissiveIntensity: 0
     - _UseOcclusion: 0
     - _UseShadowThreshold: 0
-    - _Use_1stAs2nd: 1
+    - _Use_1stAs2nd: 0
     - _Use_BaseAs1st: 1
     - _WorkflowMode: 1
     - _ZOffset: -0.01
@@ -727,7 +727,7 @@ Material:
     - _utsVersionY: 0
     - _utsVersionZ: 0
     m_Colors:
-    - _1st_ShadeColor: {r: 0.8584906, g: 0.8584906, b: 0.8584906, a: 1}
+    - _1st_ShadeColor: {r: 0.9433962, g: 0.94157934, b: 0.93894625, a: 1}
     - _2nd_ShadeColor: {r: 1, g: 1, b: 1, a: 1}
     - _AmbColor: {r: 1, g: 1, b: 1, a: 1}
     - _Ambient: {r: 1, g: 1, b: 1, a: 1}
@@ -764,7 +764,7 @@ Material:
     - _OutlineColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _OutlineMaskColor: {r: 0, g: 0, b: 0, a: 0.5}
     - _Outline_Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-    - _RimLightColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimLightColor: {r: 0.7924528, g: 0.66631943, b: 0.6018156, a: 1}
     - _RimLightMaskColor: {r: 1, g: 0, b: 1, a: 0.9}
     - _SSRimColor: {r: 1, g: 1, b: 1, a: 0}
     - _SecondShadeMaskColor: {r: 0, g: 0, b: 1, a: 0.6}

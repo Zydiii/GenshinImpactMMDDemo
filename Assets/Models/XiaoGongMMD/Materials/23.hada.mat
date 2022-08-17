@@ -14,7 +14,7 @@ Material:
   m_ValidKeywords:
   - UTS_USE_RAYTRACING_SHADOW
   - _EMISSIVE_SIMPLE
-  - _OUTLINE_NML
+  - _OUTLINE_POS
   m_InvalidKeywords:
   - SELFSHADOW_ON
   - _TOON
@@ -325,7 +325,7 @@ Material:
     - _CoatMask: 0
     - _ColorShift_Speed: 0
     - _ComposerMaskMode: 0
-    - _CullMode: 2
+    - _CullMode: 0
     - _CullModeForward: 2
     - _Cutoff: 0.5
     - _DepthOffsetEnable: 0
@@ -456,7 +456,7 @@ Material:
     - _NoShadowCasting: 0
     - _NormalMapSpace: 0
     - _NormalScale: 1
-    - _OUTLINE: 0
+    - _OUTLINE: 1
     - _OcclusionStrength: 1
     - _Offset_X_Axis_BLD: -0.05
     - _Offset_Y_Axis_BLD: 0.09
@@ -464,7 +464,7 @@ Material:
     - _OutlineOverridden: 0
     - _OutlineVisible: 1
     - _Outline_Ramp_Max_Distance: 10
-    - _Outline_Width: 0
+    - _Outline_Width: 1.5
     - _PPDLodThreshold: 5
     - _PPDMaxSamples: 15
     - _PPDMinSamples: 5
@@ -568,7 +568,7 @@ Material:
     - _Unlit_Intensity: 1
     - _UseEmissiveIntensity: 0
     - _UseShadowThreshold: 0
-    - _Use_1stAs2nd: 1
+    - _Use_1stAs2nd: 0
     - _Use_BaseAs1st: 1
     - _ZOffset: -0.01
     - _ZOverDrawMode: 0
@@ -584,7 +584,7 @@ Material:
     - _utsVersionY: 0
     - _utsVersionZ: 0
     m_Colors:
-    - _1st_ShadeColor: {r: 0.8962264, g: 0.8962264, b: 0.8962264, a: 1}
+    - _1st_ShadeColor: {r: 0.9433962, g: 0.94157934, b: 0.93894625, a: 1}
     - _2nd_ShadeColor: {r: 1, g: 1, b: 1, a: 1}
     - _Ambient: {r: 0.5, g: 0.5, b: 0.5, a: 0}
     - _AngelRingMaskColor: {r: 0, g: 1, b: 0, a: 0.95}
@@ -615,7 +615,7 @@ Material:
     - _MatCapColor: {r: 1, g: 1, b: 1, a: 1}
     - _OutlineMaskColor: {r: 0, g: 0, b: 0, a: 0.5}
     - _Outline_Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-    - _RimLightColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimLightColor: {r: 0.7924528, g: 0.66631943, b: 0.6018156, a: 1}
     - _RimLightMaskColor: {r: 1, g: 0, b: 1, a: 0.9}
     - _SSRimColor: {r: 1, g: 1, b: 1, a: 0}
     - _SecondShadeMaskColor: {r: 0, g: 0, b: 1, a: 0.6}

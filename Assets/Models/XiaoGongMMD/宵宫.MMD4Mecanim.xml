@@ -140,11 +140,11 @@
     <vertexScaleByHeightFlag>false</vertexScaleByHeightFlag>
     <vertexScaleByHeight>158</vertexScaleByHeight>
     <waitProcessExitting>false</waitProcessExitting>
-    <pmxAssetPath>Assets/Models/XiaoGongMMD/宵宫.pmx</pmxAssetPath>
+    <pmxAssetPath>Assets/Models/Characters/宵宫/宵宫.pmx</pmxAssetPath>
     <vmdAssetPathList>
-      <string>Assets/Models/Dance/危险派对/空垩 动作版/motion 1.vmd</string>
+      <string>Assets/Models/Dance/兰若KDA《the baddest》动作数据/兰若KDA《the baddest》.vmd</string>
     </vmdAssetPathList>
-    <fbxOutputPath>Assets/Models/XiaoGongMMD/宵宫.fbx</fbxOutputPath>
+    <fbxOutputPath>Assets/Models/Characters/XiaoGongMMD/宵宫.fbx</fbxOutputPath>
     <bulletPhysicsVersion>_275</bulletPhysicsVersion>
     <useWineFlag>false</useWineFlag>
     <wine>Manual</wine>

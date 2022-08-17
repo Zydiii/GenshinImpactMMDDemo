@@ -1,0 +1,82 @@
+◆Re-distribution: NOT allowed.
+  不允许二次配布
+◆Commercial use: NOT allowed.
+  不允许商业用途使用
+◆Credit me，Action reference  “足太ぺんた—君の彼女”. 
+  动作数据为本人原创，动作参考为足太姬《你的女友》
+
+============================================================
+Distribution address: Bilibili, Niconico, Youtube
+配布地址：Bilibili， Niconico, Youtube
+
+The distribution of other web sites is completely unauthorized.
+其他网址的配布全未经授权。
+============================================================
+
+■动作说明■
+非常感谢你使用这套动作，这是对于我这种的MMDER的支持，在此非常感谢！
+
+■ Motion Explanation ■
+	Thank you very much for using this Motion made by me . This is support for me. Thank you very much!
+
+
+■关于运动■ 
+这是由足太姬自编自创的舞蹈，非常可爱的舞蹈！说实话当时做起来有点废力气。（我真是个战五渣呀，笑~)
+
+■ About Motion ■
+	This is a dance created by "足太ぺんた",It's a very cute dance! To be honest, it was a little hard for me to make it at this time. (I'm really bad motion maker, smile ~)
+
+
+■关于制作■ 
+
+由于最近非常忙碌，所有我只制作了舞蹈动作和表情。以后会转战做武打方面的动作比较多，所以估计这算是第一个也是最后一个完整的舞蹈数据了。
+
+■About Animator ■
+	Since it was very busy recently, I only made dance motion and face. In the future, there will be more motion about Fighting, so it is estimated that is the first and last complete dance motion.
+
+
+■关于动作修正■
+第一，于本动作有很多的踢腿动作，所以很多模型会因为数据兼容性的问题导致脚踝扭曲。请将变形的“足ＩＫ”的旋转轴全部数据归零，调整它的旋转“Y”轴。
+
+第二,这个数据里面的动作我有用到“捩骨”与“D骨”，如果你的模型没有这两种骨，那么请在PE里面用插件加入骨骼，不然无法使用。
+
+※模型若是穿戴裙子，动作中必定会出现穿模现象，请自行通过各种办法避免这种问题的发生。
+
+■Motion correction ■
+	First, there are a lot of kicks in this motion, so many models will distort the ankle due to data compatibility issues. Please zero all the rotation data of the deformed "足ＩＫ" and adjust its rotation "Y" axis.
+
+	Secondly,  I use the"捩"bones "肩P"bones and the"D" bones to make this motion. If your model does not have these two kinds of  bones, then use the plug-in to add bones in PE, otherwise it will not work.
+
+※ If the model wears a fluffy skirt, the model penetration will surely appear in the motion. Please use various methods to avoid such problems.
+
+
+■注意事项■
+禁止R18模型使用此动作数据。
+禁止卖肉套套党使用此动作数据，用此数据的作者请加入自己的原创成分。
+禁止此动作数据制成的视频封面过于成人。
+
+■ Precautions ■
+	First, the R18 model is prohibited from using this motion.
+	Secondly, authors who use this data should add their own original ingredients.
+	Thirdly, the video cover made out of pornography is prohibited from using this motion. 
+
+
+
+2008.8.31更新
+添加简短版本与相机。
+Add a short motion and cameras.
+
+制作者：小怪兽粉刷月球
+B站：https://space.bilibili.com/95853308
+N站：72313540
+邮箱：63931335@qq.com
+
+Producer: 小怪兽粉刷月球
+Bilibili: https://space.bilibili.com/95853308
+Niconico : 72313540
+E-mail: 63931335@qq.com
+
+
+
+                                             2018.5.28
+
